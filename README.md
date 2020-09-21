@@ -1,6 +1,5 @@
 # UAM-Universidade-aps-POO
 ![result.gif](https://github.com/Gttz/UAM-Universidade-aps-POO/blob/master/poo.gif)
-APS feita na matéria de Orientada a objetos na Universidade Anhembi Morumbi
 
 <h2 align='center'>Instruções</h2>
 
