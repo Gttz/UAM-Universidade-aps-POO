@@ -7,6 +7,8 @@
 - [Python 3](https://www.python.org/downloads/)   
 - PyQt5 
   ``` pip install PyQt5 ```
+- SQLite 3
+  ``` pip install sqlite ```
 ### Execução
 Executar com Python o arquivo uam.universidade.aps.poo.py
 
